@@ -15,11 +15,21 @@
 - https://github.com/solareenlo/ES6_Practice (ES6の練習)
 
 ## React
+- https://github.com/solareenlo/react-redux-crud-application (メモリスト作成)
 - https://github.com/solareenlo/counter (カウンター機能をもつページの作成)
 
 ## React Native
+- https://github.com/solareenlo/MemoApp (Expoで作るメモアプリ)
+- https://github.com/solareenlo/todo (todoアプリ)
+- https://github.com/solareenlo/Picture_Poster (Firebaseを使った画像投稿アプリ)
+- https://github.com/solareenlo/data_acquisition_from_github (GitHubから情報を取得するアプリ)
 
 ## Node.js
+- https://github.com/solareenlo/node-todo-api (heroku上のtodoアプリ)
+- https://github.com/solareenlo/node-chat-app (heroku上のチャットアプリ)
+- https://github.com/solareenlo/web_server_heroku (heroku上のシンプルな静的サイト)
+- https://github.com/solareenlo/nodejs_practice (nodejsの練習)
+- https://github.com/solareenlo/nodejs_practice2 (nodejs速習講座 Part1)
 
 ## Python
 - https://github.com/solareenlo/python_practice (Pythonの練習)
