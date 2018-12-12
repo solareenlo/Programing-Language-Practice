@@ -33,3 +33,6 @@
 
 ## Python
 - https://github.com/solareenlo/python_practice (Pythonの練習)
+
+## Rust
+- https://github.com/solareenlo/Rust-Practice (Rust2018のThe Bookの練習)
