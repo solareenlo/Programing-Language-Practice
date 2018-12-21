@@ -12,7 +12,10 @@
 
 ## JavaScript
 - https://github.com/solareenlo/ECMAScript_practice (ECMAScriptの練習)
-- https://github.com/solareenlo/ES6_Practice (ES6の練習)
+- https://github.com/solareenlo/ES6_Practice (ES6の練習）
+
+## TypeScript
+- https://github.com/solareenlo/Typescript-Practice （TypeScriptの練習）
 
 ## React
 - https://github.com/solareenlo/react-redux-crud-application (メモリスト作成)
