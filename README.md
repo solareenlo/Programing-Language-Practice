@@ -28,6 +28,7 @@
 - https://github.com/solareenlo/data_acquisition_from_github (GitHubから情報を取得するアプリ)
 
 ## Node.js
+- https://github.com/solareenlo/Web-App-with-Nodejs-Express （Express+TypeScript+Webpackの練習）
 - https://github.com/solareenlo/node-todo-api (heroku上のtodoアプリ)
 - https://github.com/solareenlo/node-chat-app (heroku上のチャットアプリ)
 - https://github.com/solareenlo/web_server_heroku (heroku上のシンプルな静的サイト)
