@@ -40,3 +40,6 @@
 
 ## Rust
 - https://github.com/solareenlo/Rust-Practice (Rust2018のThe Bookの練習)
+
+## Object思考とは
+- https://github.com/solareenlo/Object-Oriented (オブジェクト指向とは抽象度の上げ下げと体系化)
