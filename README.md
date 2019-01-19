@@ -28,7 +28,7 @@
 - https://github.com/solareenlo/data_acquisition_from_github (GitHubから情報を取得するアプリ)
 
 ## Node.js
-- https://github.com/solareenlo/Simple-CRUD　（React+Redux+Express+MongoDBを使ったシンプルなCRUDアプリ）
+- https://github.com/solareenlo/Simple-CRUD （React+Redux+Express+MongoDBを使ったシンプルなCRUDアプリ）
 - https://github.com/solareenlo/Web-App-with-Nodejs-Express （Express+TypeScript+Webpackの練習）
 - https://github.com/solareenlo/node-chat-app (heroku上のチャットアプリ)
 - https://github.com/solareenlo/node-todo-api (heroku上のtodoアプリ)
