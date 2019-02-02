@@ -37,6 +37,9 @@
 - https://github.com/solareenlo/nodejs_practice (nodejsの練習)
 - https://github.com/solareenlo/nodejs_practice2 (nodejs速習講座 Part1)
 
+## Next.js
+- https://github.com/solareenlo/learnnextjs-demo （Next.jsで静的サイトを作った練習）
+
 ## Python
 - https://github.com/solareenlo/python_practice (Pythonの練習)
 
